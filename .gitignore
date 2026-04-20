@@ -1,0 +1,8 @@
+.env
+.env.local
+.venv/
+__pycache__/
+*.pyc
+dashboard/.next/
+dashboard/node_modules/
+dashboard/.env.local
